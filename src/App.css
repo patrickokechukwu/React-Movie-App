@@ -1,0 +1,19 @@
+/* src/App.css */
+.movie-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.movie-description {
+  padding: 20px;
+}
